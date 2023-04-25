@@ -1,0 +1,27 @@
+body{
+    background-color: wheat;
+}
+
+#header {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: salmon;
+}
+
+#subtitle {
+    background-color: chocolate;
+    margin: 7px;
+    text-align: center;
+}
+
+.menu {
+    background-color: rgb(92, 204, 204);
+    color: rgb(93, 55, 180);
+    border-left-style: solid;
+    border-radius: 5px;
+}
+
+.reclink{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
