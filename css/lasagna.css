@@ -1,0 +1,42 @@
+body{
+    background-color: tomato;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 255, 0);
+}
+
+img{
+    height: 400px;
+    width: 500px;
+    border-radius: 5px;
+    margin-left: 75px;
+}
+
+#description, #ingredients, #steps{
+    border-left-style: solid;
+    border-color: rgb(85, 164, 218);
+    border-radius: 5px;
+    background-color: white;
+    margin: 5px;
+}
+
+#description h2, p{
+    margin: 15px;
+}
+
+.topic-title{
+    margin: 10px;
+}
+
+a {
+   text-decoration: dashed;
+   text-align: center;
+   border: solid rgb(82, 152, 243);
+   background-color: rgb(255, 255, 255);
+   border-radius: 5px;
+   margin: 20px;
+}
